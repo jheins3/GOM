@@ -2,10 +2,6 @@
 """ Script for archiving the master report file (Microsoft XLSM file) and the corresponding .STLs (point cloud files)
 related to J&L Dimensional GE Unison Production for the GE Parts: M19, M07, M90, M84, and M30 respectively"""
 
-# Company: J&L Dimensional Incorporated
-# Author: Jonathan Thomas Heins
-# Date: 11/16/2016
-
 import os
 import zipfile
 import re
